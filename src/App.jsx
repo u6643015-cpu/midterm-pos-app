@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
-import { products, categories } from "./assets/data";
+import { products, categories } from "./data";
+import "./App.css";
 import {
   Cable,
   Headphones,
